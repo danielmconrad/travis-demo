@@ -1,0 +1,26 @@
+{
+  "name": "travis-demo",
+  "version": "0.0.1",
+  "description": "build, test, automate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmconrad/travis-demo.git"
+  },
+  "author": {
+    "name": "Dan Conrad",
+    "email": "dan.m.conrad@gmail.com"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.10",
+    "gulp-coffee": "^2.2.0",
+    "gulp-jasmine": "^2.0.0",
+    "gulp-util": "^3.0.1",
+    "run-sequence": "^1.0.2"
+  },
+  "engine": {
+    "node": ">=0.10.32"
+  }
+}
