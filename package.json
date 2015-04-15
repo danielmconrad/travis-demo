@@ -10,10 +10,10 @@
     "name": "Dan Conrad",
     "email": "dan.m.conrad@gmail.com"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "coffee-script": "^1.8.0",
+    "fs-extra": "^0.18.0",
     "gulp": "^3.8.10",
     "gulp-coffee": "^2.2.0",
     "gulp-jasmine": "^2.0.0",
